@@ -62,7 +62,7 @@ const App = () => (
       locale={locale()}
       i18nProvider={i18nProvider}
    >
-      <Resource name="example" list={ListGuesser} />
+      <Resource name="users" list={ListGuesser} />
    </Admin>
 );
 

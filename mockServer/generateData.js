@@ -2,12 +2,12 @@ const faker = require('faker');
 
 function generateData() {
    const data = {
-      example: []
+      users: []
    };
 
    // Create 1000 users
    for (let i = 0; i < 1000; i++) {
-      data.example.push({
+      data.users.push({
          id: i,
          name: faker.name.findName(),
          username: faker.internet.userName(),
