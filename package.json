@@ -16,7 +16,7 @@
       "ra-language-english": "^2.3.0",
       "ra-language-spanish": "^1.0.0",
       "react": "^16.5.2",
-      "react-admin": "^2.9.3",
+      "react-admin": "^3.19.12",
       "react-dom": "^16.5.2",
       "react-redux": "~5.0.7",
       "react-router-dom": "~4.2.2",
